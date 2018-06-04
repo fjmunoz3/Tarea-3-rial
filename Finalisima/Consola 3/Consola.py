@@ -139,10 +139,6 @@ archivo.commit()
 archivo.close()
 
 
-cursor.execute("DROP TABLE Usuarios")
-cursor.execute("DROP TABLE Escuchadas")
-cursor.execute("DROP TABLE Artistas")
-cursor.execute("DROP TABLE Canciones")
 
 
 #CONSULTAS BÁSICAS
